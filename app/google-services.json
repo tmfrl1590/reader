@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498321074320",
+    "project_id": "reader-56b69",
+    "storage_bucket": "reader-56b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498321074320:android:49bc53803b02cd399d9015",
+        "android_client_info": {
+          "package_name": "com.json.reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7FdDOe4blopw3r725MsaPSvp9_zTIAyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
